@@ -4,4 +4,4 @@
 
 - Contribución realizada a través de un pull requestACTUALIZACION URGENTE: Todos los sistemas operativos.
 
--Correcion del bug DG16
+-Correcion del bug DDG-16 
