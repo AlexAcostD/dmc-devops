@@ -1,4 +1,4 @@
-# DevOps & Project Management Fundamentals
+#  DevOps & Project Management Fundamentals
 
 Este repositorio documenta los aprendizajes, prácticas y conceptos adquiridos
 durante el curso **DevOps & Project Management Fundamentals**.
