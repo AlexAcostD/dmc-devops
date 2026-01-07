@@ -1,28 +1,37 @@
 # DevOps & Project Management Fundamentals
 
-Este repositorio documenta los aprendizajes, prácticas y conceptos adquiridos durante el curso **DevOps & Project Management Fundamentals**, enfocado en la cultura DevOps, la gestión del código fuente, la integración continua y la gestión de requerimientos con herramientas estándar de la industria.
+Este repositorio documenta los aprendizajes, prácticas y conceptos adquiridos
+durante el curso **DevOps & Project Management Fundamentals**.
+El enfoque está en la cultura DevOps, la gestión del código fuente,
+la integración continua y la gestión de requerimientos con herramientas
+estándar de la industria.
 
 ---
 
-##  Objetivo del curso
+## Objetivo del curso
 
-Comprender y aplicar los fundamentos de DevOps y Project Management para mejorar el flujo de entrega de software, fomentar la colaboración entre equipos y utilizar herramientas clave como **GitHub**, **GitHub Actions** y **Jira Software**.
+Comprender y aplicar los fundamentos de DevOps y Project Management para mejorar
+el flujo de entrega de software, fomentar la colaboración entre equipos y
+utilizar herramientas clave como **GitHub**, **GitHub Actions** y
+**Jira Software**.
 
 ---
 
 ## Contenidos del curso
 
-###  Sesión 1 – Fundamentos de DevOps y GitHub
+### Sesión 1 – Fundamentos de DevOps y GitHub
 
-**DevOps**
+#### DevOps
+
 - Introducción al enfoque DevOps: definición, procesos y roles.
 - Cultura DevOps basada en el marco **CALMS**.
 - Ciclo de vida DevOps.
 - Comparación entre **DevOps, MLOps y DataOps**.
 - Rol y responsabilidades del **DevOps Engineer**.
-- Taller: *Value Stream Mapping* para identificar cuellos de botella en la entrega de software.
+- Taller: *Value Stream Mapping* para identificar cuellos de botella.
 
-**Gestión de código con GitHub**
+#### Gestión de código con GitHub
+
 - Git vs GitHub: conceptos y casos de uso.
 - Creación y configuración de un perfil profesional en GitHub.
 - Exploración de repositorios públicos.
@@ -31,30 +40,34 @@ Comprender y aplicar los fundamentos de DevOps y Project Management para mejorar
 
 ---
 
-###  Sesión 2 – Control de versiones y CI/CD
+### Sesión 2 – Control de versiones y CI/CD
 
-**Uso de GitHub**
+#### Uso de GitHub
+
 - Creación y clonación de repositorios.
 - Flujo de trabajo con commits, branches y merges.
 - Estrategia de ramas por funcionalidad.
 - Colaboración mediante forks y Pull Requests.
 - Buenas prácticas para Pull Requests de alta calidad.
 
-**Integración Continua**
-- Implementación de una pipeline básica de **CI con GitHub Actions**.
+#### Integración Continua
+
+- Implementación de una pipeline básica de CI con GitHub Actions.
 - Uso de actions del GitHub Marketplace.
 - Análisis de logs y depuración de pipelines.
-- Aplicación de **GitHub Flow** en escenarios reales (feature + hotfix).
+- Aplicación de GitHub Flow en escenarios reales.
 
 ---
 
-###  Sesión 3 – Gestión de requerimientos con Jira
+### Sesión 3 – Gestión de requerimientos con Jira
 
-**Gestión de requerimientos**
+#### Gestión de requerimientos
+
 - Revisión de ingeniería de requerimientos.
 - Creación de Historias de Usuario orientadas al valor.
 
-**Jira Software**
+#### Jira Software
+
 - Introducción a Jira y su rol en la planificación DevOps.
 - Exploración de la interfaz de Jira.
 - Creación de Epics, Stories, Tasks y Bugs.
@@ -64,14 +77,15 @@ Comprender y aplicar los fundamentos de DevOps y Project Management para mejorar
   - Cycle Time
   - Velocity
 
-**Integraciones**
+#### Integraciones
+
 - Integración de Jira con GitHub.
-- Uso de *GitHub for Jira* y *Smart Commits*.
-- Buenas prácticas y anti-patrones en la adopción de Jira.
+- Uso de GitHub for Jira y Smart Commits.
+- Buenas prácticas y anti-patrones en Jira.
 
 ---
 
-##  Herramientas utilizadas
+## Herramientas utilizadas
 
 - **Git & GitHub**
 - **GitHub Actions**
@@ -80,14 +94,10 @@ Comprender y aplicar los fundamentos de DevOps y Project Management para mejorar
 
 ---
 
-##  Competencias desarrolladas
+## Competencias desarrolladas
 
 - Cultura y mentalidad DevOps.
 - Control de versiones y trabajo colaborativo.
 - Integración Continua (CI).
 - Gestión ágil de requerimientos.
 - Uso de métricas para optimización del flujo de trabajo.
-
-
-
-
